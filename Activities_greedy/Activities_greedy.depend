@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1589829565 source:f:\alexandra\facultate\sem 2\algorithm design\activities_greedy\activities.c
+	<stdlib.h>
+	"activities.h"
+
+1589829640 f:\alexandra\facultate\sem 2\algorithm design\activities_greedy\activities.h
+
+1589826121 source:f:\alexandra\facultate\sem 2\algorithm design\activities_greedy\print.c
+	<stdio.h>
+	"print.h"
+
+1589829652 f:\alexandra\facultate\sem 2\algorithm design\activities_greedy\print.h
+	"activities.h"
+
+1589829252 source:f:\alexandra\facultate\sem 2\algorithm design\activities_greedy\sort.c
+	<stdio.h>
+	"sort.h"
+
+1589829659 f:\alexandra\facultate\sem 2\algorithm design\activities_greedy\sort.h
+	"activities.h"
+
+1589829836 source:f:\alexandra\facultate\sem 2\algorithm design\activities_greedy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"activities.h"
+	"print.h"
+	"sort.h"
+
+1589833372 source:f:\alexandra\facultate\sem 2\algorithm design\activities_greedy\select_activities.c
+	<stdio.h>
+	"sort.h"
+	"select_activities.h"
+
+1589829656 f:\alexandra\facultate\sem 2\algorithm design\activities_greedy\select_activities.h
+	"activities.h"
+
+1589829565 source:f:\alexandra\facultate\sem 2\algorithm design\folder final tema\c\activities_greedy\activities.c
+	<stdlib.h>
+	"activities.h"
+
+1589829640 f:\alexandra\facultate\sem 2\algorithm design\folder final tema\c\activities_greedy\activities.h
+
+1589829836 source:f:\alexandra\facultate\sem 2\algorithm design\folder final tema\c\activities_greedy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"activities.h"
+	"print.h"
+	"sort.h"
+
+1589829652 f:\alexandra\facultate\sem 2\algorithm design\folder final tema\c\activities_greedy\print.h
+	"activities.h"
+
+1589829659 f:\alexandra\facultate\sem 2\algorithm design\folder final tema\c\activities_greedy\sort.h
+	"activities.h"
+
+1589833460 source:f:\alexandra\facultate\sem 2\algorithm design\folder final tema\c\activities_greedy\select_activities.c
+	<stdio.h>
+	"sort.h"
+	"select_activities.h"
+
+1589829656 f:\alexandra\facultate\sem 2\algorithm design\folder final tema\c\activities_greedy\select_activities.h
+	"activities.h"
+
+1589829252 source:f:\alexandra\facultate\sem 2\algorithm design\folder final tema\c\activities_greedy\sort.c
+	<stdio.h>
+	"sort.h"
+
+1590025334 source:f:\alexandra\facultate\sem 2\algorithm design\folder final tema\c\activities_greedy\print.c
+	<stdio.h>
+	"print.h"
+
+1590025334 source:f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_greedy\print.c
+	<stdio.h>
+	"print.h"
+
+1590100765 f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_greedy\print.h
+	"activities.h"
+
+1590174815 f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_greedy\activities.h
+
+1590174815 source:f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_greedy\sort.c
+	<stdio.h>
+	"sort.h"
+
+1590174815 f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_greedy\sort.h
+	"activities.h"
+
+1590174815 source:f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_greedy\activities.c
+	<stdlib.h>
+	"activities.h"
+
+1590102745 source:f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_greedy\select_activities.c
+	<stdio.h>
+	"sort.h"
+	"select_activities.h"
+
+1589829656 f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_greedy\select_activities.h
+	"activities.h"
+
+1590174815 source:f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_greedy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"activities.h"
+	"sort.h"
+

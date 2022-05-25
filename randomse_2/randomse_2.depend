@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588933455 source:f:\alexandra\facultate\sem 2\algorithm design\randomse_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

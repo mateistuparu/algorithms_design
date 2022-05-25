@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1589833839 source:f:\alexandra\facultate\sem 2\algorithm design\activities_dynamic\activities_dynamic\print.c
+	<stdio.h>
+	"print.h"
+
+1589832225 f:\alexandra\facultate\sem 2\algorithm design\activities_dynamic\activities_dynamic\print.h
+	"activities.h"
+
+1589835075 f:\alexandra\facultate\sem 2\algorithm design\activities_dynamic\activities_dynamic\activities.h
+
+1589837363 source:f:\alexandra\facultate\sem 2\algorithm design\activities_dynamic\activities_dynamic\select_activities.c
+	"select_activities.h"
+	<stdlib.h>
+	<stdio.h>
+
+1589835435 f:\alexandra\facultate\sem 2\algorithm design\activities_dynamic\activities_dynamic\select_activities.h
+	"activities.h"
+
+1589832350 source:f:\alexandra\facultate\sem 2\algorithm design\activities_dynamic\activities_dynamic\activities.c
+	<stdlib.h>
+	<stdio.h>
+	"activities.h"
+
+1589834380 source:f:\alexandra\facultate\sem 2\algorithm design\activities_dynamic\activities_dynamic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"activities.h"
+	"print.h"
+	"sort.h"
+
+1589832364 f:\alexandra\facultate\sem 2\algorithm design\activities_dynamic\activities_dynamic\sort.h
+	"select_activities.h"
+
+1589833660 source:f:\alexandra\facultate\sem 2\algorithm design\activities_dynamic\activities_dynamic\sort.c
+	<stdio.h>
+	"sort.h"
+
+1589833660 source:f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_dynamic\sort.c
+	<stdio.h>
+	"sort.h"
+
+1589832364 f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_dynamic\sort.h
+	"select_activities.h"
+
+1590170458 f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_dynamic\select_activities.h
+	"activities.h"
+
+1590101388 f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_dynamic\activities.h
+
+1590101436 source:f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_dynamic\activities.c
+	<stdlib.h>
+	<stdio.h>
+	"activities.h"
+
+1590174382 source:f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_dynamic\main.c
+	<stdio.h>
+	<stdlib.h>
+	"activities.h"
+	"sort.h"
+
+1590101403 f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_dynamic\print.h
+	"activities.h"
+
+1590102028 source:f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_dynamic\print.c
+	<stdio.h>
+	"print.h"
+
+1590170459 source:f:\alexandra\facultate\sem 2\algorithm design\ad-cen1.3a-balaci-alexandra-daniela-course-assignment\p1\activities_dynamic\select_activities.c
+	"select_activities.h"
+	<stdlib.h>
+	<stdio.h>
+
